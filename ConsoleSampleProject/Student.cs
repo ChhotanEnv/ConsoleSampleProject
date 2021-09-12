@@ -10,6 +10,6 @@ namespace ConsoleSampleProject
     {
         int id;
         int age;
-        string Name;
+        string StudentName;
     }
 }
